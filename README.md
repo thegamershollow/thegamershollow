@@ -1,5 +1,5 @@
 ## Welcome
-Hi my name is Cal, I am a novice developer in the Wii U and 3DS Homebrew communities. 
+Hi my name is Ethan, I am a novice developer in the Wii U and 3DS Homebrew communities. 
 
 I am an avid [blogger](https://thegamershollow.github.io). 
 
