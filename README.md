@@ -8,7 +8,7 @@ You can find my socials at [linktr.ee/thattransgal](https://linktr.ee/thattransg
 
 ### My current computer specs
 
-Early 2011 MacBook pro 13" 6gb DDR3 1333MHZ Ram, Core i5, Intel HD 3000 graphics and 256gb ssd storage.
+Early 2011 MacBook pro 13" 8GB DDR3 1600MHZ Ram, Core i5, Intel HD 3000 graphics and 1TB ssd storage.
 
 ### Video Games I Play (courtesy of RiiTag)
 
