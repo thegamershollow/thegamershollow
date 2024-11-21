@@ -4,7 +4,7 @@ Hi my name is Ethan, I am a novice developer in the Wii U and 3DS Homebrew commu
 I am an avid [blogger](https://thegamershollow.github.io). 
 
 I work with Python, HTML, Markdown, JavaScript, Java, and CSS.
-You can find my socials at [linktr.ee/thattransgal](https://linktr.ee/thattransgal)
+You can find my socials at [thegamershollow.space/links](https://thegamershollow.space/links)
 
 ### My current computer specs
 
