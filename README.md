@@ -1,12 +1,8 @@
 ## Welcome
-Hi my name is Ethan, I am a novice developer in the Wii U and 3DS Homebrew communities.
+Hi my name is Ethan, I am a novice developer who programs mostly in Python, and swift.
 
 I am an avid [blogger](https://thegamershollow.github.io). 
 
 I work with Python, HTML, Markdown, JavaScript, Java, and CSS.
 You can find my socials at [thegamershollow.space/links](https://thegamershollow.space/links)
-
-### My current computer specs
-
-Early 2011 MacBook pro 13" 8GB DDR3 1600MHZ Ram, Core i5, Intel HD 3000 graphics and 1TB ssd storage.
 
