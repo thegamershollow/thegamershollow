@@ -1,8 +1,11 @@
-## Welcome
-Hi my name is Ethan, I am a novice developer who programs mostly in Python.
+# Welcome
 
-I am an avid [blogger](https://thegamershollow.github.io). 
+Hi my name is Ethan I like video games and am a hobbiest developer, I know a lot about Python and hope to learn other languages as well.
 
-I work with Python, HTML, Markdown, JavaScript, Java, and CSS.
-You can find me on BlueSky at [thegamershollow.bsky.social](https://bsky.app/profile/thegamershollow.bsky.social)
+### My Blog
 
+You can find my blog at [thegamershollow.github.io](http://thegamershollow.github.io)
+
+### Social Media
+
+You can find my social media and discord profile at [thegamershollow.github.io/links](http://thegamershollow.github.io/links)
