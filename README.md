@@ -9,3 +9,8 @@ You can find my blog at [thegamershollow.github.io](http://thegamershollow.githu
 ### Social Media
 
 You can find my social media and discord profile at [thegamershollow.github.io/links](http://thegamershollow.github.io/links)
+
+
+### RiiTag
+
+<a href="https://riitag.t0g3pii.de/user/917438708163182632"><img src="https://riitag.t0g3pii.de/917438708163182632/tag.png" alt="RiiTag" /></a>
